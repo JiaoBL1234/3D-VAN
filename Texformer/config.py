@@ -1,0 +1,15 @@
+market1501_split_pkl_path = './Texformer/meta/market1501split.pkl'
+reid_weight_path = './Texformer/meta/checkpoint_120.pth.tar'
+reid_resnet50_market_weight_path = './Texformer/meta/resnet50_market_xent.pth.tar'
+ra_body_path = './Texformer/meta/ra_body.pkl'
+uv_encoding_path = './Texformer/meta/UV_color_encoding.npy'
+uv_mask_path = './Texformer/meta/uv_regions'
+cube_parts_path = './Texformer/meta/cube_parts_12.npy'
+verts_stand_path = './Texformer/meta/verts_cam_stand.pkl'
+
+JOINT_REGRESSOR_TRAIN_EXTRA = './Texformer/meta/J_regressor_extra.npy'
+SMPL_MEAN_PARAMS = './Texformer/meta/smpl_mean_params.npz'
+SMPL_MODEL_DIR = './Texformer/meta/smpl'
+VERTEX_TEXTURE_FILE = './Texformer/meta/vertex_texture.npy'
+RSC_checkpoint = './Texformer/meta/RSC-Net.pt'
+
